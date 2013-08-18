@@ -8,3 +8,5 @@ commands.
 You are watching Git Essentials, from Tuts+ Premium.
 
 All rights reserved. 2013 Xiang Wei
+
+make another change at the bottom.
