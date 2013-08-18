@@ -5,8 +5,6 @@ The only reason this project exists is to give
 the fine viewers a means to learning the Git 
 commands.
 
-change
-
 You are watching Git Essentials, from Tuts+ Premium.
 
 All rights reserved. 2013 Xiang Wei
